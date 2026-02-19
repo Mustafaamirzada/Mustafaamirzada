@@ -16,7 +16,14 @@
 
 ## Current Projects
 
+- 🤘 **[SignLanguageRecognition](https://github.com/Mustafaamirzada/Dari-Sign-Language-PyTorch)** - Using PyTorch for Training a DNN in Sign Language Recognition.
 - 📊 **[DataWareHouse](https://github.com/Mustafaamirzada/Complete-SQL-DataWareHouse)** - This is a project for build data warehouses.
+- ✔️ **[Social-Api](https://github.com/Mustafaamirzada/laravel-social-app-api)** - A Complete Laravel API for social apps.
+- 📬 **[Fpost](https://github.com/Mustafaamirzada/flutter-social-app)** - Flutter app for consuming Rest API.
+- 🐦 **[Twitter-API](https://github.com/Mustafaamirzada/Complete-Twitter-API-with-Node-Express-Prisma-PotgreSQL)** - A Minimal API like twitter app.
+- 🎬 **[fnetflix](https://github.com/Mustafaamirzada/flutter-netflix)** - Netflex Design with Flutter.
+- ℛ **[reddit-2.0](https://github.com/Mustafaamirzada/reddit-2.0-clone)** - Reddit Web App with NextJS 15, TypeScript and Santiy CMS.
+- 🏘️ **[airbnb-app](https://github.com/Mustafaamirzada/airbnb-Clone-with-Nextjs)** - Airbnb Website with NextJS 15.
 - 📩 **[Laravel-Mail](https://github.com/Mustafaamirzada/)** - A Task Managment App That sends You Emails When There is new task.
 ## Connect
 
